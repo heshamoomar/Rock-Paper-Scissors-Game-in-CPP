@@ -1,0 +1,3 @@
+﻿  Rock_Paper_Scissors.cpp
+C:\Users\Hesham\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors\Rock_Paper_Scissors.cpp(27,1): warning C4715: 'getChoiceName': not all control paths return a value
+  Rock_Paper_Scissors.vcxproj -> C:\Users\Hesham\source\repos\Rock_Paper_Scissors\x64\Debug\Rock_Paper_Scissors.exe
